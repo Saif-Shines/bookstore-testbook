@@ -17,3 +17,4 @@ brew services stop mongodb-community@4.4
 ```
 
 as usual, `npm test` to run the tests.
+[tutorial I followed](https://www.digitalocean.com/community/tutorials/test-a-node-restful-api-with-mocha-and-chai) 
